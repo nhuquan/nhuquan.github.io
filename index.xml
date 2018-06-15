@@ -6,10 +6,19 @@
     <description>Recent content on Nhu Quan DANG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 14 Jun 2018 14:43:16 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 15 Jun 2018 12:17:47 +0200</lastBuildDate>
     
 	<atom:link href="https://nhuquan.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Games</title>
+      <link>https://nhuquan.github.io/games/</link>
+      <pubDate>Fri, 15 Jun 2018 12:17:47 +0200</pubDate>
+      
+      <guid>https://nhuquan.github.io/games/</guid>
+      <description> Flappy bird  </description>
+    </item>
     
     <item>
       <title>Second Post</title>
